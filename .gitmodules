@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:DMV-Booth/DMV-Booth.github.io.git
+	branch = master
